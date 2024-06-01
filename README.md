@@ -1,6 +1,5 @@
-# Frontend Mentor - Shortly URL shortening API Challenge solution
-
-This is a solution to the [Shortly URL shortening API Challenge challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Shortly
+This repository contains a URL Shortener application, a web-based service that allows users to shorten long URLs for easy sharing and tracking. The project is built using modern web technologies, ensuring a smooth and user-friendly experience. 
 
 ## Table of contents
 
